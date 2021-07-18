@@ -1,1 +1,1 @@
-# python-helloworld
+This is exercise 7 of Lesson 5. Here we are creating a CI Pipeline to Build and Push a Docker image into DockerHub using Git Secrets and Dockerhub personal access tokens.
